@@ -47,10 +47,11 @@ div{
     color: #0a0a0a;
     font-weight: bold;
     padding: 1rem;
+    background-color: transparent;
 }
 
 .button.header:hover{
-    background-color: pink;
+    background-color: transparent;
     color: white;
 }
 
